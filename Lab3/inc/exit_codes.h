@@ -1,0 +1,17 @@
+#ifndef EXIT_CODES_H
+#define EXIT_CODES_H
+
+#define ERROR_BAD_FILE 2
+#define ERROR_ALLOCATE 3
+#define ERROR_NULL_POINTER 4
+#define ERROR_INDEX_OUT 5
+#define ERROR_DIF_SIZES 6
+#define ERROR_BAD_MODE 7
+#define ERROR_EMPTY_MTR 8
+#define ERROR_BAD_INT 9
+#define ERROR_BAD_SIGN 10
+#define ERROR_BAD_DOUBLE 11
+#define ERROR_NEED_PREP 12
+#define ERROR_BAD_KEY 13
+
+#endif
