@@ -1,0 +1,16 @@
+#ifndef CODES_H
+#define CODES_H
+
+#define ERROR_EMPTY_INPUT 2
+#define ERROR_UNKNOWN_SYMBOL 3
+#define ERROR_TOO_LONG_NUMBER 4
+#define ERROR_CALC 5
+#define ERROR_TWO_POINTS 6
+#define ERROR_TWO_EXPS 7
+#define ERROR_DOUBLE_SPACE 8
+#define ERROR_NON_EXP 9
+#define ERROR_TOO_LONG_MANTISSA 10
+#define ERROR_TOO_LONG_EXP 11
+#define ERROR_INPUT 12
+
+#endif
