@@ -1,0 +1,12 @@
+#ifndef EXIT_CODES_H
+#define EXIT_CODES_H
+
+#define EXIT_ALLOCATE 2
+#define EXIT_BAD_STRING 3
+#define EXIT_WRONG_MENU_NUM 4
+#define EXIT_BAD_INT 5
+#define EXIT_WRONG_READ 6
+#define EXIT_CANT_COUNT 7
+#define EXIT_OVERFLOW 8
+
+#endif
