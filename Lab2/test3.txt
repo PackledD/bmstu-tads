@@ -1,0 +1,120 @@
+Author 198|Title 11|Publish 1|100|tech|Industry1|domestic|1991|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1993|
+Author ev1|Title 13b|Publish 3|200|art|poetry|
+Author 213|Title 1|Publish 4|400|art|play|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+Author 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 213|Title 1|Publish 4|400|art|play|
+wkjbnvrkl|kenber|lkenblk lwlk_elbn|2689|art|novel|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+klem 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
+Author 15|Title 14|Puish 2|1040|tech|Industry1|transfered|1991|
+eklrm 1e5|Title 24|Publish 2|1200|tech|Industry1|domestic|1985|
+Author 15|Title 124|Publish 352|1080|tech|Industry1|transfered|1991|
+HGCVHjken|kenbk|lkenblk lwlk_elbn|2647|art|novel|
+oi2mo|eknbkl|lkenklmkl jknbl|738|child|fairy|
+w98yg9ho|3iuhgui3n|i3jhgn|298|child|poetry|
+Author 198|Title 11|Publish 1|100|tech|Industry1|domestic|1991|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1993|
+Author ev1|Title 13b|Publish 3|200|art|poetry|
+Author 213|Title 1|Publish 4|400|art|play|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+Author 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 213|Title 1|Publish 4|400|art|play|
+wkjbnvrkl|kenber|lkenblk lwlk_elbn|2689|art|novel|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+klem 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
+Author 15|Title 14|Puish 2|1040|tech|Industry1|transfered|1991|
+eklrm 1e5|Title 24|Publish 2|1200|tech|Industry1|domestic|1985|
+Author 15|Title 124|Publish 352|1080|tech|Industry1|transfered|1991|
+HGCVHjken|kenbk|lkenblk lwlk_elbn|2647|art|novel|
+oi2mo|eknbkl|lkenklmkl jknbl|738|child|fairy|
+w98yg9ho|3iuhgui3n|i3jhgn|298|child|poetry|
+wkjbnvrkl|kenber|lkenblk lwlk_elbn|2689|art|novel|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+klem 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
+Author 15|Title 14|Puish 2|1040|tech|Industry1|transfered|1991|
+eklrm 1e5|Title 24|Publish 2|1200|tech|Industry1|domestic|1985|
+Author 15|Title 124|Publish 352|1080|tech|Industry1|transfered|1991|
+HGCVHjken|kenbk|lkenblk lwlk_elbn|2647|art|novel|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+klem 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
+Author 15|Title 14|Puish 2|1040|tech|Industry1|transfered|1991|
+Author 213|Title 1|Publish 4|400|art|play|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+Author 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 213|Title 1|Publish 4|400|art|play|
+wkjbnvrkl|kenber|lkenblk lwlk_elbn|2689|art|novel|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+klem 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 15|Title 14|Puish 2|1040|tech|Industry1|transfered|1991|
+HGCVHjken|kenbk|lkenblk lwlk_elbn|2647|art|novel|
+oi2mo|eknbkl|lkenklmkl jknbl|738|child|fairy|
+w98yg9ho|3iuhgui3n|i3jhgn|298|child|poetry|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+klem 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
+Author 15|Title 14|Puish 2|1040|tech|Industry1|transfered|1991|
+eklrm 1e5|Title 24|Publish 2|1200|tech|Industry1|domestic|1985|
+Author 15|Title 124|Publish 352|1080|tech|Industry1|transfered|1991|
+HGCVHjken|kenbk|lkenblk lwlk_elbn|2647|art|novel|
+oi2mo|eknbkl|lkenklmkl jknbl|738|child|fairy|
+w98yg9ho|3iuhgui3n|i3jhgn|298|child|poetry|
+Author 198|Title 11|Publish 1|100|tech|Industry1|domestic|1991|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1993|
+Author ev1|Title 13b|Publish 3|200|art|poetry|
+Author 213|Title 1|Publish 4|400|art|play|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+Author 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+Author 213|Title 1|Publish 4|400|art|play|
+wkjbnvrkl|kenber|lkenblk lwlk_elbn|2689|art|novel|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+Author 198|Title 11|Publish 1|100|tech|Industry1|domestic|1991|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1993|
+Author ev1|Title 13b|Publish 3|200|art|poetry|
+Author 213|Title 1|Publish 4|400|art|play|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 213|Title 1|Publish 4|400|art|play|
+wkjbnvrkl|kenber|lkenblk lwlk_elbn|2689|art|novel|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+klem 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
+Author 15|Title 14|Puish 2|1040|tech|Industry1|transfered|1991|
+eklrm 1e5|Title 24|Publish 2|1200|tech|Industry1|domestic|1985|
+HGCVHjken|kenbk|lkenblk lwlk_elbn|2647|art|novel|
+oi2mo|eknbkl|lkenklmkl jknbl|738|child|fairy|
+w98yg9ho|3iuhgui3n|i3jhgn|298|child|poetry|
+Author 198|Title 11|Publish 1|100|tech|Industry1|domestic|1991|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1993|
+Author ev1|Title 13b|Publish 3|200|art|poetry|
+Author 213|Title 1|Publish 4|400|art|play|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+Author 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+Author 213|Title 1|Publish 4|400|art|play|
+wkjbnvrkl|kenber|lkenblk lwlk_elbn|2689|art|novel|
+Author 41|Title rt1|Publish 5|5600|art|novel|
+klem 15|Title 130|Publish 6|129|child|poetry|
+Author 167|Title 109|Publish 7|120|child|fairy|
+Author 15|Title 124|Publish 2|1000|tech|Industry1|transfered|1991|
